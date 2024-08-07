@@ -1,2 +1,2 @@
-# ATM_Management_System
+# PyBank
 This project manages cash deposit, withdrawal and checking balance implemented using python
